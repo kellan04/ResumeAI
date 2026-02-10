@@ -1,0 +1,5 @@
+{
+  "name": "ResumeAI Architect",
+  "description": "A cross-platform, privacy-focused AI resume builder and optimization tool designed to help job seekers tailor their resumes to specific job descriptions using Gemini 3.",
+  "requestFramePermissions": []
+}
